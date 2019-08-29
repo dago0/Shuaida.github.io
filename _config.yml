@@ -21,7 +21,7 @@
 title: Shuaida's Homepage
 email: heshuaidacn@126.com
 description:  We light tomorrow with today.
-baseurl: "/shuaida.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/Shuaida.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: shuaida
 github_username:  dago0
